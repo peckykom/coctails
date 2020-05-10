@@ -1,4 +1,4 @@
-package com.coctails.MyCoctails;
+package com.coctails.app;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
